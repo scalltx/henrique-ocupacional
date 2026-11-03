@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 650 150" role="img" aria-labelledby="title">
+  <title id="title">Henrique — Segurança do Trabalho, Treinamentos e Consultoria Ocupacional</title>
+  <g fill="#C49A45">
+    <text x="44" y="121" font-family="Georgia, 'Times New Roman', serif" font-size="139" font-weight="700" letter-spacing="-12">H</text>
+    <path d="M8 74 C 23 31, 39 31, 46 34 C 27 46, 24 78, 41 88 C 72 109, 126 78, 174 31 C 151 82, 86 126, 39 109 C 13 101, 2 88, 8 74 Z"/>
+    <text x="211" y="94" font-family="Georgia, 'Times New Roman', serif" font-size="65" letter-spacing="-3">HENRIQUE</text>
+  </g>
+  <g fill="#F4F1EA" font-family="Arial, sans-serif" font-weight="700" text-anchor="middle">
+    <text x="418" y="45" font-size="18" letter-spacing="1.2">SEGURANÇA DO TRABALHO</text>
+    <text x="419" y="117" font-size="14" letter-spacing="1.2">TREINAMENTOS E</text>
+    <text x="419" y="136" font-size="14" letter-spacing="1.2">CONSULTORIA OCUPACIONAL</text>
+  </g>
+</svg>
